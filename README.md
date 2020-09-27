@@ -12,7 +12,7 @@
 
 📫 How to reach me: beaceshimin@gmail.com
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=beace&theme=cobalt" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beace&layout=compact" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=beace&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beace&layout=compact" />
+
