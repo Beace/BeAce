@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<img align="right" src="https://imgs.beacelee.com/logo.jpg" />
+🔭 I’m currently working on bytedance.
 
-🔭 I’m currently working on bytedance
-
-🌱 I’m currently learning webgl,graphic
+🌱 I’m currently using Node.js、npm.
 
 📃 https://beace.app
 
-💬 Ask me about anything
+💬 Ask me about anything.
 
-📫 How to reach me: beaceshimin@gmail.com
+📫 How to reach me: beaceshimin@gmail.com.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=beace&theme=cobalt" />
