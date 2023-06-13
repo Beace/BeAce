@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on bytedance.
+🔭 I’m currently working on Bydedance.
 
-🌱 I’m currently using Node.js、npm.
-
-📃 https://beace.app
+🌱 I’m currently using Node.js、npm and I hate monorepo.
 
 💬 Ask me about anything.
 
 📫 How to reach me: beaceshimin@gmail.com.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=beace&theme=cobalt" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beace&layout=compact" />
 
